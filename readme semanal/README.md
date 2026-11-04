@@ -1,7 +1,7 @@
-# APSII_S06_AstraLab — Changelog de melhorias
+# APSII_S11_AstraLab — Changelog de melhorias
 
 **Grupo 01 — AstraLab**  
-**Semana 06 — Melhoria contínua da experiência do usuário**  
+**Semana 11 — Melhoria contínua da experiência do usuário**  
 **Data da revisão:** 04/11/2026
 
 ## Identificação do grupo

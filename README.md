@@ -88,9 +88,9 @@ Para garantir a segurança diagnóstica, o sistema implementa:
 
    Acesse `http://127.0.0.1:8000`.
 
-## 📚 Entrega APSII - Semana 06
+## 📚 Entrega APSII - Semana 11
 
-- [Changelog em Markdown](atividade%20semana%2006/README.md)
+- [Changelog em Markdown](readme%20semanal/README.md)
 - [Changelog em PDF](output/pdf/APSII_S11_AstraLab_Changelog.pdf)
 
 Nesta iteração foram refinados o login, o acesso ao contato pela Home e as orientações do formulário. A compilação TypeScript/Vite foi concluída sem erros e os 24 testes relacionados a login e contato foram aprovados.
