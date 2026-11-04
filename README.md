@@ -57,7 +57,7 @@ Para garantir a segurança diagnóstica, o sistema implementa:
 ### Instalação
 1. **Clone o repositório:**
    ```bash
-   git clone URL_DO_REPOSITORIO
+   git clone https://github.com/iCarlooss/AstraLab-APSII.git
    cd AstraLab
    ```
 
@@ -91,6 +91,6 @@ Para garantir a segurança diagnóstica, o sistema implementa:
 ## 📚 Entrega APSII - Semana 06
 
 - [Changelog em Markdown](atividade%20semana%2006/README.md)
-- [Changelog em PDF](output/pdf/APSII_S06_AstraLab_Changelog.pdf)
+- [Changelog em PDF](output/pdf/APSII_S11_AstraLab_Changelog.pdf)
 
 Nesta iteração foram refinados o login, o acesso ao contato pela Home e as orientações do formulário. A compilação TypeScript/Vite foi concluída sem erros e os 24 testes relacionados a login e contato foram aprovados.
