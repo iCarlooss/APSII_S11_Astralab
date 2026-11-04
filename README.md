@@ -57,7 +57,7 @@ Para garantir a segurança diagnóstica, o sistema implementa:
 ### Instalação
 1. **Clone o repositório:**
    ```bash
-   git clone https://github.com/iCarlooss/AstraLab-APSII.git
+   git clone https://github.com/iCarlooss/APSII_S11_Astralab.git
    cd AstraLab
    ```
 
