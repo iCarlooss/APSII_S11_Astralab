@@ -46,4 +46,4 @@ Como o screenshot é opcional, ele não interfere no funcionamento da entrega. P
 
 1. **Home:** destaque que antes havia somente a ação de acesso ao portal e que agora existem “Consultar resultados” e “Falar com a equipe”.
 2. **Login:** destaque a máscara do CPF, o comando “Mostrar senha” e o novo texto “Entrar no sistema”.
-3. Identifique as imagens como “Antes — versão anterior” e “Depois — Semana 06”.
+3. Identifique as imagens como “Antes — versão anterior” e “Depois — Semana 11”.
